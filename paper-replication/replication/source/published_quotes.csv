@@ -1,0 +1,6 @@
+quote_id,quote_text,source_page
+Q001,"We don't have any formal process of like a code review, sitting down and talking about security risks",18
+Q002,"I usually don't as a developer go to the extreme of testing vulnerability in my feature, that's someone else's to do.",18
+Q003,"If they find a security issue, then you will be in trouble.",19
+Q004,"I would hesitate to release anything that's not functional and I also hesitate to release anything that had security concerns.",19
+Q005,"I would not feel comfortable with basically having something used by end users that I didn't feel was secure",19

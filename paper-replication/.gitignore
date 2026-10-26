@@ -1,0 +1,20 @@
+# Dataset goc Stack Overflow
+replication/extension/dataset/
+replication/extension/*.zip
+
+# File tam
+*.tmp
+*.log
+*.swp
+*~
+.DS_Store
+
+# File he thong
+Thumbs.db
+
+# Thong tin nhay cam
+.env
+.env.*
+*.key
+*.pem
+

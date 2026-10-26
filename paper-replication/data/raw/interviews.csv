@@ -1,0 +1,9 @@
+id,participant,statement
+1,P01,I learn security from my teammates.
+2,P02,Code review helps me identify security issues.
+3,P03,Our company requires security testing.
+4,P04,I lack time to learn security.
+5,P05,I care about protecting users.
+6,P06,Security tools are difficult to use.
+7,P07,I attend security training sessions.
+8,P08,I fix vulnerabilities to pass audits.
